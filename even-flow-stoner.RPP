@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1698237400
+<REAPER_PROJECT 0.1 "6.82/OSX64-clang" 1698238121
   <NOTES 0 2
   >
   RIPPLE 0
@@ -16,8 +16,8 @@
   TIMEMODE 1 5 -1 30 0 0 -1
   VIDEO_CONFIG 0 0 256
   PANMODE 3
-  CURSOR 291.22651246361448
-  ZOOM 6.2724155910429 0 0
+  CURSOR 0
+  ZOOM 14.74337515196496 0 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -59,8 +59,8 @@
   GLOBAL_AUTO -1
   TEMPO 103 4 4
   PLAYRATE 1 0 0.25 4
-  SELECTION 291.22651246361448 297.77478779712487
-  SELECTION2 291.22651246361448 297.77478779712487
+  SELECTION 268.70448736624519 275.60851970463801
+  SELECTION2 268.70448736624519 275.60851970463801
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -295,10 +295,10 @@
   MARKER 20 250.31862815310069 "" 1 33475686 1 B
   MARKER 29 250.31862815310069 "CHORUS2 X 4" 1 33390600 1 B {DAAFE46B-C187-374A-A879-A84B32F34FCA}
   MARKER 29 259.50475146435213 "" 1 33390600 1 B
-  MARKER 30 259.50475146435213 "CHORUS3 X 4" 1 33227271 1 B {9702726E-E9ED-9F4B-A8C9-14B57D658C37}
-  MARKER 30 268.70448736624519 "" 1 33227271 1 B
-  MARKER 31 259.50475146435213 "CHORUS4 X 3" 1 33227392 1 B {06607684-17B7-2240-916B-D40E40216C30}
-  MARKER 31 275.60851970463801 "" 1 33227392 1 B
+  MARKER 30 259.50475146435213 "CHORUS3 X 4" 1 33227392 1 B {679C2B01-CD65-7D4F-A168-3968CF1FEDF0}
+  MARKER 30 268.70448736624519 "" 1 33227392 1 B
+  MARKER 31 268.70448736624519 "CHORUS4 X 3" 1 33227271 1 B {06607684-17B7-2240-916B-D40E40216C30}
+  MARKER 31 275.60851970463801 "" 1 33227271 1 B
   MARKER 21 275.60851970463472 "OBBLIGATO X 3" 1 23488255 1 B {31C43DF7-465F-D544-AAC8-85FA51CA9DC8}
   MARKER 21 282.37153831062432 "" 1 23488255 1 B
   MARKER 32 282.37153831062545 "PRE-SOLO1 X 4" 1 23527423 1 B {128C015E-4E81-8F40-B869-F37B231F8FB7}
@@ -322,7 +322,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -336,7 +336,7 @@
     <ITEM
       POSITION 4.85820993700383
       SNAPOFFS 0
-      LENGTH 297
+      LENGTH 0.04577391600976
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -351,6 +351,821 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {D2906779-1EC0-8042-B90C-29F31EA06F61}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 4.90398385301359
+      SNAPOFFS 0
+      LENGTH 7.2131400666375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 19005439 B
+      SEL 0
+      IGUID {9A2F1956-9290-3045-87AD-B1AE5B8FE0DD}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.04577391600976
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B34E3D8-9E7A-B74F-8BD5-B6096DBFE6A0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 12.11712391965109
+      SNAPOFFS 0
+      LENGTH 1.12779387159816
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {19910039-5973-5140-A406-D759D545B908}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 7.25891398264726
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDA5C764-B5CA-994C-8374-976CEFC871DD}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 13.24491779124925
+      SNAPOFFS 0
+      LENGTH 4.74206242073556
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {EACD2BF9-B327-434A-890F-5B46C3A5962E}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 8.38670785424542
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D134C5F0-9FE6-BB41-9617-1BD1F2EC3092}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 17.98698021198481
+      SNAPOFFS 0
+      LENGTH 18.62347159145302
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 17924160 B
+      SEL 0
+      IGUID {654B29A5-DD35-114A-B7FB-0D540FD2F126}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 13.12877027498098
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABDF395B-DC10-214D-8D3C-5EA7A3CA6A75}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 36.61045180343783
+      SNAPOFFS 0
+      LENGTH 16.4793193753112
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 19005190 B
+      SEL 0
+      IGUID {F6269A44-919C-0A4F-A3E6-35E70584C639}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 31.75224186643401
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {62EDFA60-FC04-494C-A229-6AD90E8BFEBB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 53.08977117874903
+      SNAPOFFS 0
+      LENGTH 1.16475844645409
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {D3F7AC20-AA12-964D-AC95-4315588FA3B2}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 48.2315612417452
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F73EB3E7-C731-824E-AAA7-63A63ED640AB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 54.25452962520312
+      SNAPOFFS 0
+      LENGTH 6.96246627437188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554186 B
+      SEL 0
+      IGUID {47B6BE51-C4DC-1C44-B7F9-01B44E656F97}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 49.39631968819929
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {840596A3-ADB3-9547-80BB-E4AB5A1B37D5}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 61.216995899575
+      SNAPOFFS 0
+      LENGTH 3.45443030686856
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {38AFD87E-6DFA-FF44-BED3-94FF3DC7A208}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 56.35878596257117
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F63FACF8-A9BA-324A-8406-6C726E42AAFF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 64.67142620644356
+      SNAPOFFS 0
+      LENGTH 9.41635594392253
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33475686 B
+      SEL 0
+      IGUID {D07C16E0-7417-0945-BD07-451B4CFCB8C7}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 59.81321626943973
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E471A38D-B3CA-CE42-9CBB-34784018D697}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 74.08778215036608
+      SNAPOFFS 0
+      LENGTH 9.25778482636213
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33390600 B
+      SEL 0
+      IGUID {EDF2C2EC-9AB3-1341-B742-7B2574862EEA}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 69.22957221336225
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F38727E8-C509-6443-AAF0-BCC939452D36}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 83.34556697672821
+      SNAPOFFS 0
+      LENGTH 7.01260715940536
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33227392 B
+      SEL 0
+      IGUID {B0670547-E79F-5548-A967-A2491BFF8E77}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 78.48735703972437
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BDDD0B14-42C0-5344-800D-A721877DBA87}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 90.35817413613357
+      SNAPOFFS 0
+      LENGTH 4.58763539850449
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7212DE76-3286-4A46-A00D-C253F227E4D6}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 85.49996419912974
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76A44274-6DBA-8F4D-B8DC-BAF183D048F9}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 94.94580953463806
+      SNAPOFFS 0
+      LENGTH 18.41168739396069
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 17924160 B
+      SEL 0
+      IGUID {B970D379-2DA4-E04A-A1D8-BD856DF48DD8}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 90.08759959763422
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8DF6AD70-6C90-0743-BFB5-4C0AA06BE664}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 113.35749692859875
+      SNAPOFFS 0
+      LENGTH 16.24914319766961
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 19005190 B
+      SEL 0
+      IGUID {BE62BF83-E3F9-844E-9E11-90CD00E98E1E}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 108.49928699159491
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91FAF056-8776-7347-A50A-6E0EDDB9EB5C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 129.60664012626836
+      SNAPOFFS 0
+      LENGTH 3.4437376503875
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {63E4BC65-7F91-0742-96C4-A3846F2938C0}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 124.74843018926452
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {68A0F7AB-E713-5045-A0E3-9E1EAB31A4A8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 133.05037777665586
+      SNAPOFFS 0
+      LENGTH 9.32577568018837
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33475686 B
+      SEL 0
+      IGUID {3C26084E-AB27-DD43-A2DC-2A74ACA8879C}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 128.19216783965203
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E011CFB4-D38A-9442-B1E5-9BB4EAE8B365}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 142.37615345684424
+      SNAPOFFS 0
+      LENGTH 9.23600861797473
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33390600 B
+      SEL 0
+      IGUID {3CA1BED5-4FF4-2446-9E92-18E3236A20E6}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 137.5179435198404
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F94EEAC-D729-EE4B-AF7E-44BFB4F8E3A7}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 151.61216207481897
+      SNAPOFFS 0
+      LENGTH 9.2676808647652
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33227392 B
+      SEL 0
+      IGUID {E6703466-F32A-F24C-9FEC-910C05555E19}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 146.75395213781513
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C5E0C75C-55DF-A646-9900-9152E8C7F193}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 160.87984293958417
+      SNAPOFFS 0
+      LENGTH 6.95766712539475
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33227271 B
+      SEL 0
+      IGUID {4C1EACF3-A50E-EA45-9549-1D059B6DBF16}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 156.02163300258033
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {16B78B73-8C8A-6744-AE60-11E6B367EE2E}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 167.83751006497891
+      SNAPOFFS 0
+      LENGTH 6.72468604319258
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 23488255 B
+      SEL 0
+      IGUID {BBC049CE-4679-FC4E-8364-A8ADF11F26B2}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 162.97930012797508
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {525C8297-86AF-F54F-9251-520F9733BD54}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 174.56219610817149
+      SNAPOFFS 0
+      LENGTH 9.08651880530644
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 23527423 B
+      SEL 0
+      IGUID {6961F6C2-C179-DA4C-8807-9386574F0783}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 169.70398617116766
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B77DBA51-D892-5F45-AEDE-E36AEB0C0504}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 183.64871491347793
+      SNAPOFFS 0
+      LENGTH 8.86294932928686
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 17793279 B
+      SEL 0
+      IGUID {F4C8174E-A3C5-2940-9B83-3987C06E7D09}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 178.7905049764741
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E601B3F3-FEF8-5248-807D-D6ECD8A2DD9D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 192.51166424276479
+      SNAPOFFS 0
+      LENGTH 8.74275539542461
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 B
+      SEL 0
+      IGUID {F0DE85A5-9AF4-5B4F-AA52-28CB2D1AF78C}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 187.65345430576096
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11307DD8-4980-CC4E-8FBD-55D2BEC15A37}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 201.2544196381894
+      SNAPOFFS 0
+      LENGTH 8.65487015609753
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777344 B
+      SEL 0
+      IGUID {4A36A46F-5306-C642-AD32-6AE4AC15136E}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 196.39620970118557
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9714AAF4-881F-034F-8E58-6587747EFE77}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 209.90928979428693
+      SNAPOFFS 0
+      LENGTH 13.03968225193162
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 30172927 B
+      SEL 0
+      IGUID {C439118E-2A91-DB4D-8786-A157A675A632}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 205.0510798572831
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7AA107D-1EB6-734E-9CC3-A25C5A01E7D6}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 222.94897204621856
+      SNAPOFFS 0
+      LENGTH 18.04457147559256
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33318655 B
+      SEL 0
+      IGUID {1A9A5582-C14A-CC43-976B-7C3BFDFAE4E6}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 218.09076210921472
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9DF782EA-73A7-1D4C-9887-ED6E1CFB7251}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 240.99354352181112
+      SNAPOFFS 0
+      LENGTH 9.32508463128957
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33475686 B
+      SEL 0
+      IGUID {DD9053F9-0873-C44B-BEC1-DCB4E980FC8C}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 236.13533358480728
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {666FE8EC-CE5D-2A48-A1DE-3E2288AAA715}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 250.31862815310069
+      SNAPOFFS 0
+      LENGTH 9.18612331125144
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33390600 B
+      SEL 0
+      IGUID {09B67476-4B2C-A849-9EDB-456F0872BD24}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 245.46041821609685
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {00AA9F97-1719-C24F-9CE5-5C01295B4DAC}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 259.50475146435213
+      SNAPOFFS 0
+      LENGTH 9.19973590189306
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33227392 B
+      SEL 0
+      IGUID {DCEA951E-7244-DA49-821A-8E8F559B2F54}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 254.64654152734829
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5AAD698-0B09-034F-A530-C725B9938A9D}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 268.70448736624519
+      SNAPOFFS 0
+      LENGTH 6.90403233839283
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33227271 B
+      SEL 0
+      IGUID {EA9EC04E-E6F3-9D46-B597-8560F0F8499F}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 263.84627742924135
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25676272-8660-3C41-B5FF-9F0A6EB7D8FF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 275.60851970463801
+      SNAPOFFS 0
+      LENGTH 6.7630186059863
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 23488255 B
+      SEL 0
+      IGUID {A760AAFD-283A-4F45-8452-E5425E367D00}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 270.75030976763418
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19FD0A55-1AE3-B546-81FA-E0E9A2CAAB2B}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 282.37153831062432
+      SNAPOFFS 0
+      LENGTH 8.85497415299017
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 23527423 B
+      SEL 0
+      IGUID {155924DE-CCB7-7048-9106-E9004E16D036}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 277.51332837362048
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCF5261E-D4B2-704A-8886-16880493F4E0}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 291.22651246361448
+      SNAPOFFS 0
+      LENGTH 6.54827533351039
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 23514367 B
+      SEL 1
+      IGUID {2994B440-9BDE-6D43-8DE9-CC004BA2D0D2}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 286.36830252661065
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E4F740E8-4969-A246-A122-E4BA62888B39}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 297.77478779712487
+      SNAPOFFS 0
+      LENGTH 4.08342213987893
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554431 B
+      SEL 0
+      IGUID {AD0DB86A-F780-2F47-A44D-372440026D81}
+      IID 10
+      NAME "even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 292.91657786012104
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B163DD1-2903-3842-B8B7-D445A4A5C935}
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in/even-flow-stoner-cut-drums-D major-103bpm-441hz.m4a"
@@ -1986,7 +2801,7 @@
     ISBUS 2 -1
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 75 1 0 0 0 0
