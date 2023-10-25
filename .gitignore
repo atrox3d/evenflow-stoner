@@ -1,0 +1,5 @@
+*.reapeaks
+*.zip
+video-out/*
+video-in/VID*.mp4
+.DS_Store
