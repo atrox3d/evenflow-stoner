@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1711573661
+<REAPER_PROJECT 0.1 "6.68/win64" 1715430765
   <NOTES 0 2
   >
   RIPPLE 0
@@ -18,7 +18,7 @@
   PANMODE 3
   CURSOR 0
   ZOOM 14.74337515196497 0 0
-  VZOOMEX 6 0
+  VZOOMEX 6 32
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -30,7 +30,7 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "/Users/nigga/reaper-media/dj-ernia/even-flow-stoner\even-flow-stoner-cut.wav"
+  RENDER_FILE "C:\Users\nigga\reaper-media\dj-ernia\mp3\even-flow-stoner-click.mp3"
   RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
@@ -45,7 +45,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
-    ZXZhdxgAAQ==
+    bDNwbUABAAAAAAAACgAAAP////8EAAAAQAEAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -68,12 +68,12 @@
   MASTERTRACKVIEW 1 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
-  MASTER_VOLUME 1.19402992926018 0 -1 -1 1
+  MASTER_VOLUME 1 0 -1 -1 1
   MASTER_PANMODE 3
   MASTER_FX 1
   MASTER_SEL 0
   <MASTERFXLIST
-    WNDRECT 33 934 793 163
+    WNDRECT 580 214 716 200
     SHOW 0
     LASTSEL 1
     DOCKED 0
@@ -88,7 +88,7 @@
     WAK 0 0
     BYPASS 0 0 0
     <JS sstillwell/eventhorizon2 ""
-      0 -1.5 20 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+      0 -0.2 20 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     >
     FLOATPOS 0 0 0 0
     FXID {A555BE59-C4EA-2745-87D3-ABE3D0E61133}
@@ -314,14 +314,14 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1 0 -1 -1 1
+    VOLPAN 2.81838293126445 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -332,16 +332,6 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <VOLENV2
-      EGUID {E6339C14-55DD-4D8F-BAF4-E2548D617BE7}
-      ACT 1 -1
-      VIS 1 1 1
-      LANEHEIGHT 0 0
-      ARM 1
-      DEFSHAPE 0 -1 -1
-      VOLTYPE 1
-      PT 0 1 0
-    >
     <ITEM
       POSITION 4.95954973627428
       SNAPOFFS 0
@@ -1186,7 +1176,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 2.38114989303346 0 -1 -1 1
+    VOLPAN 3.98107170553497 0 -1 -1 1
     MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -2613,7 +2603,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 0 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -2680,7 +2670,7 @@
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 0.30902659488464 0 -1 -1 1
+    VOLPAN 1 0 -1 -1 1
     MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
@@ -2845,7 +2835,7 @@
     BEAT -1
     AUTOMODE 0
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
+    MUTESOLO 0 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
